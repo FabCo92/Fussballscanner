@@ -6,6 +6,5 @@ Scannt ob Fussballer in einer Liste verletzt sind oder ausfallen, gibt dann die 
 Python, Terminal.
 
 ## Geplante Features
-Skript, um Spielerliste als json aus comunio direkt zu extrahieren
 
 Graphisches User-Interface
